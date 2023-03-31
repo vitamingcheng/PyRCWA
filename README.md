@@ -1,5 +1,5 @@
 # PyRCWA (v0.0.1)
-PyRCWA is a tools to simulate the optical transmission in layered structure.
+PyRCWA's vision is to be a high-performance numerical simulation tool that can be used to solve electromagnetic field propagation in multi-layered periodic structures with complex material systems and boundary conditions
 
 ## Featrues
 The feature balabala
