@@ -13,3 +13,5 @@ The feature balabala
 
 ## Official documentation
 See the [official PyRCWA's documentation](https://pyrcwa.readthedocs.io/en/latest/ "official PyRCWA's documentation")
+
+See the [pyPI: PyRCWA's documentation](https://pypi.org/project/PyRCWA/ "pyPI: PyRCWA's documentation")
