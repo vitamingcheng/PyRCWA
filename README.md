@@ -12,6 +12,6 @@ The feature balabala
 - GPU test
 
 ## Official documentation
-See the [official PyRCWA's documentation](https://pyrcwa.readthedocs.io/en/latest/ "official PyRCWA's documentation")
+See the [Readthedocs: Official PyRCWA's documentation](https://pyrcwa.readthedocs.io/en/latest/ "official PyRCWA's documentation")
 
-See the [pyPI: PyRCWA's documentation](https://pypi.org/project/PyRCWA/ "pyPI: PyRCWA's documentation")
+See the [PyPI: PyRCWA's documentation](https://pypi.org/project/PyRCWA/ "pyPI: PyRCWA's documentation")
