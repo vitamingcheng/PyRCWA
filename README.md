@@ -1,5 +1,5 @@
 # PyRCWA (v0.0.1)
-PyRCWA's vision is to be a high-performance numerical simulation tool that can be used to solve electromagnetic field propagation in multi-layered periodic structures with complex material systems and boundary conditions
+The vision of PyRCWA is to be a high-performance numerical simulation tool that can be used to solve electromagnetic field propagation in multi-layered periodic structures with **complex material systems**.
 
 ## Featrues
 The feature balabala
